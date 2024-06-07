@@ -1,0 +1,9 @@
+# ninja log v5
+5	105	7394991205464449	CMakeFiles/ShieldAvengersPath.dir/main.cpp.obj	21bb18f52f0c9034
+5	55	7393496100857200	CMakeFiles/ShieldAvengersPath.dir/Vertex.cpp.obj	c752ad319957cc00
+445	578	7394997513594988	ShieldAvengersPath.exe	5e6574a74313c5b3
+5	444	7394997512326391	CMakeFiles/ShieldAvengersPath.dir/Graph.cpp.obj	9bf6d8f15296d18f
+6	89	7395013244172549	CMakeFiles/ShieldAvengersPath.dir/main.cpp.obj	8cc72ae050ee5bbd
+16	97	7395013244253362	CMakeFiles/ShieldAvengersPath.dir/Vertex.cpp.obj	44260b1e298ea17a
+12	444	7395013247735761	CMakeFiles/ShieldAvengersPath.dir/Graph.cpp.obj	a3230a564ef606e
+444	545	7395013248689880	ShieldAvengersPath.exe	5e6574a74313c5b3
