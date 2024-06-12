@@ -1,0 +1,14 @@
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\bin\Debug\MarvelHeroesAndVillainsTree.exe.config
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\bin\Debug\MarvelHeroesAndVillainsTree.exe
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\bin\Debug\MarvelHeroesAndVillainsTree.pdb
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\obj\Debug\MarvelHeroesAndVillainsTree.csproj.AssemblyReference.cache
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\obj\Debug\MarvelHeroesAndVillainsTree.csproj.CoreCompileInputs.cache
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\obj\Debug\MarvelHeroesAndVillainsTree.exe
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\obj\Debug\MarvelHeroesAndVillainsTree.pdb
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\bin\Debug\MarvelHeroesAndVillainsTree.exe.config
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\bin\Debug\MarvelHeroesAndVillainsTree.exe
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\bin\Debug\MarvelHeroesAndVillainsTree.pdb
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\obj\Debug\MarvelHeroesAndVillainsTree.csproj.AssemblyReference.cache
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\obj\Debug\MarvelHeroesAndVillainsTree.csproj.CoreCompileInputs.cache
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\obj\Debug\MarvelHeroesAndVillainsTree.exe
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\MarvelHeroesAndVillainsTree\MarvelHeroesAndVillainsTree\obj\Debug\MarvelHeroesAndVillainsTree.pdb
