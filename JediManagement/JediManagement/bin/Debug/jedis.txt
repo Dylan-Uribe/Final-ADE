@@ -1,0 +1,52 @@
+Yoda;Unknown;896;green;Jedi Master;N/A
+Luke Skywalker;Human;19;green;Jedi Knight,Jedi Master;Obi-Wan Kenobi,Yoda
+Obi-Wan Kenobi;Human;57;blue;Jedi Knight,Jedi Master;Qui-Gon Jinn,Yoda
+Anakin Skywalker;Human;41;blue,red;Jedi Knight;Obi-Wan Kenobi
+Ahsoka Tano;Togruta;36;green,blue;Jedi Knight;Anakin Skywalker
+Mace Windu;Human;72;purple;Jedi Master;Cyslin Myr,Yoda
+Qui-Gon Jinn;Human;92;green;Jedi Master;Dooku,Yoda
+Rey;Human;19;blue,yellow;Jedi Knight;Leia Organa,Luke Skywalker
+Leia Organa;Human;19;blue;Jedi Knight;Luke Skywalker
+Ben Solo;Human;29;blue,red;Jedi Knight;Luke Skywalker
+Ki-Adi-Mundi;Cerean;92;blue;Jedi Master;Yoda
+Plo Koon;Kel Dor;382;blue;Jedi Master;Tyvokka,Yoda
+Shaak Ti;Togruta;40;blue;Jedi Master;Yoda
+Luminara Unduli;Mirialan;56;green;Jedi Master;Yoda
+Barriss Offee;Mirialan;54;blue;Jedi Knight;Luminara Unduli
+Kit Fisto;Nautolan;48;green;Jedi Master;Yoda
+Aayla Secura;Twi'lek;43;blue;Jedi Master;Quinlan Vos,Yoda
+Adi Gallia;Tholothian;52;blue;Jedi Master;Yoda
+Eeth Koth;Zabrak;51;green;Jedi Master;Yoda
+Depa Billaba;Human;44;blue;Jedi Master;Mace Windu,Yoda
+Jocasta Nu;Human;65;blue;Jedi Master;N/A
+Ezra Bridger;Human;14;blue,green;Jedi Knight;Kanan Jarrus,Yoda
+Kanan Jarrus;Human;22;blue;Jedi Knight;Depa Billaba
+Cere Junda;Human;29;blue;Jedi Knight;Eno Cordova,Yoda
+Cal Kestis;Human;23;blue;Jedi Knight;Jaro Tapal,Yoda
+Quinlan Vos;Kiffar;35;green;Jedi Knight;Tholme,Yoda
+Loden Greatstorm;Twi'lek;32;green;Jedi Master;Yoda
+Bultar Swan;Human;47;blue;Jedi Knight;Micah Giiett,Yoda
+Coleman Trebor;Vurk;50;blue;Jedi Master;Oppo Rancisis,Yoda
+Oppo Rancisis;Thisspiasian;212;green;Jedi Master;Yaddle,Yoda
+Yaddle;Yoda's Species;477;green;Jedi Master;N/A
+Sifo-Dyas;Human;46;blue;Jedi Master;Yoda
+Pong Krell;Besalisk;62;two double-bladed lightsabers (blue, green);Jedi Master;Yoda
+Bastila Shan;Human;23;yellow;Jedi Knight;N/A
+Satele Shan;Human;57;blue;Jedi Master;N/A
+Vodo-Siosk Baas;Neti;300;blue;Jedi Master;N/A
+Voolvif Monn;Shistavanen;45;blue;Jedi Knight;Yoda
+Agen Kolar;Zabrak;39;green;Jedi Master;Yoda
+Tera Sinube;Cosian;270;blue;Jedi Master;N/A
+Yarael Poof;Quermian;347;blue;Jedi Master;N/A
+Even Piell;Lannik;178;green;Jedi Master;N/A
+Eldra Kaitis;Twi'lek;16;blue;Padawan;N/A
+Jacen Solo;Human;30;green;Jedi Knight;Luke Skywalker
+Jaina Solo;Human;30;purple;Jedi Knight;Luke Skywalker
+Tenel Ka Djo;Hapan/Dathomirian;21;green;Jedi Knight;N/A
+Tahiri Veila;Human;14;yellow;Jedi Knight;N/A
+Cilghal;Mon Calamari;57;green;Jedi Master;N/A
+Tionne Solusar;Human;34;silver;Jedi Master;N/A
+Kam Solusar;Human;42;blue;Jedi Master;N/A
+Corran Horn;Human;29;silver;Jedi Knight;N/A
+Kyp Durron;Human;23;green;Jedi Master;Luke Skywalker
+Lowbacca;Wookiee;35;bronze;Jedi Knight;N/A

@@ -1,0 +1,14 @@
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\JediManagement\JediManagement\bin\Debug\JediManagement.exe.config
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\JediManagement\JediManagement\bin\Debug\JediManagement.exe
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\JediManagement\JediManagement\bin\Debug\JediManagement.pdb
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\JediManagement\JediManagement\obj\Debug\JediManagement.csproj.AssemblyReference.cache
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\JediManagement\JediManagement\obj\Debug\JediManagement.csproj.CoreCompileInputs.cache
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\JediManagement\JediManagement\obj\Debug\JediManagement.exe
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\JediManagement\JediManagement\obj\Debug\JediManagement.pdb
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\JediManagement\JediManagement\bin\Debug\JediManagement.exe.config
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\JediManagement\JediManagement\bin\Debug\JediManagement.exe
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\JediManagement\JediManagement\bin\Debug\JediManagement.pdb
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\JediManagement\JediManagement\obj\Debug\JediManagement.csproj.AssemblyReference.cache
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\JediManagement\JediManagement\obj\Debug\JediManagement.csproj.CoreCompileInputs.cache
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\JediManagement\JediManagement\obj\Debug\JediManagement.exe
+C:\Users\dylan_tmut0bm\Documents\ClionProyects\Final ADE\JediManagement\JediManagement\obj\Debug\JediManagement.pdb
